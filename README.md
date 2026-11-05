@@ -6,7 +6,7 @@ Hibiki is the desktop sibling of the Beatzyy music player for Android. It has no
 
 ## Download
 
-**[Download the latest version for Windows](https://github.com/<your-username>/hibiki-releases/releases/latest)**
+**[Download the latest version for Windows](https://github.com/halxnao/hibiki-releases/releases/latest)**
 
 Windows 10 or 11, 64-bit. You do not need to install Java.
 
